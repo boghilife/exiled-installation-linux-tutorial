@@ -34,7 +34,7 @@ For Centos: <kbd>yum install glibc.i686 libstdc++.i686</kbd>
 
 # 3. Install the server with steamcmd
 
-* When yu starts the server you should see this:
+#### When yu starts the server you should see this:
 
 ![myImage](https://i.imgur.com/rUK7zLn.png)
 
