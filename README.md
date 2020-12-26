@@ -54,6 +54,12 @@ For Centos: <kbd>yum install glibc.i686 libstdc++.i686</kbd>
 #### You should to see this:
 ![myImage](https://i.imgur.com/udm9iog.png)
 
+* Enter in the direct connection and put your ip and test it.
+
+* For close the server run: <kbd>exit</kbd> in the server console.
+
+# 5. Install Exiled (finally!!!)
+
 
 
 
