@@ -45,6 +45,8 @@ For Centos: <kbd>yum install glibc.i686 libstdc++.i686</kbd>
 
 ##### The server was installed and you should see this in the directory when you install the server:
 
+![myImage](https://i.imgur.com/kKgZYvI.png)
+
 
 
 
