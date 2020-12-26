@@ -5,8 +5,8 @@ In this tutorial i teach you how to create a Exiled server in Lunux (for this tu
 # Requirements
 
 - [X] A vps with 1gb of ram and 1 core.
-- [x] Winscp/Filezilla for sftp acces to file.
-- [x] Putty for ssh acces.
+- [x] Winscp/Filezilla for sftp access to file.
+- [x] Putty for ssh access.
 
 # 1. Install Mono
 
@@ -22,26 +22,26 @@ For Ubuntu/Debuian: <kbd>sudo apt-get install lib32gcc1</kbd>
 
 For Centos: <kbd>yum install glibc.i686 libstdc++.i686</kbd>
 
-* Create a folder with <kbd>mkdir steamcmd</kbd> (when do you install the steamcmd) and go to it.
+* Create a folder with <kbd>mkdir steamcmd</kbd> (when you have installed the steamcmd) and go to it.
 
 * When you are in the folder run this command: <kbd>wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz</kbd>
 
-* Next run this for unpack the tar file: <kbd>tar zxvf (thenameofthetarfile)</kbd> you unpack the tar file!
+* Next run this for unzip the tar file: <kbd>tar zxvf (thenameofthetarfile)</kbd> you unpack the tar file!
 
-* Run this for provide all permission to launche steamcmd: <kbd>chmod 777 *</kbd>
+* Run this for provide all permission to launch steamcmd: <kbd>chmod 777 *</kbd>
 
-* Finally launch the steamcmd with: <kbd>./steamcmd.sh</kbd>
+* Finally launch steamcmd with: <kbd>./steamcmd.sh</kbd>
 
 # 3. Install the server with steamcmd
 
-#### When yu starts the server you should see this:
+#### When you starts the server you should see this:
 
 ![myImage](https://i.imgur.com/rUK7zLn.png)
 
-* In the steam console run this: <kbd>login anonymous</kbd>
-* Next run: <kbd>force_install_dir /the/directory/when do you/want to install the server</kbd> (in my case /root/scpserver)
+* In steamcmd run this: <kbd>login anonymous</kbd>
+* Next run: <kbd>force_install_dir /the/directory/when you want to install the server</kbd> (in my case /root/scpserver)
 * Next: <kbd>app_update 996560 validate</kbd>
-* When the installation has finished run: <kbd>quit</kbd>
+* When the installation is finished run: <kbd>quit</kbd>
 
 ##### The server was installed and you should see this in the directory when you install the server:
 
@@ -59,8 +59,6 @@ For Centos: <kbd>yum install glibc.i686 libstdc++.i686</kbd>
 * For close the server run: <kbd>exit</kbd> in the server console.
 
 # 5. Install Exiled (finally!!!)
-
-For install Exiled go to the server directory and run this command: <kbd>wget https://github.com/galaxy119/EXILED/releases/download/2.1.21/Exiled.Installer-Linux</kbd> the actual version is the 2.1.21 but replace with the last.
 
 
 
