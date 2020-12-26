@@ -47,6 +47,13 @@ For Centos: <kbd>yum install glibc.i686 libstdc++.i686</kbd>
 
 ![myImage](https://i.imgur.com/kKgZYvI.png)
 
+# 4. Run the server
+
+* For start the server run: <kbd>./LocalAdmin 7777</kbd> in the server directory.
+
+#### You should to see this:
+![myImage](https://i.imgur.com/udm9iog.png)
+
 
 
 
