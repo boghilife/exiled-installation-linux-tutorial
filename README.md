@@ -43,6 +43,14 @@ For Centos: <kbd>yum install glibc.i686 libstdc++.i686</kbd>
 * Next: <kbd>app_update 996560 validate</kbd>
 * When the installation has finished run: <kbd>quit</kbd>
 
+##### The server was installed and you should see this in the directory when you install the server:
+
+
+
+
+
+
+
 
 
 
