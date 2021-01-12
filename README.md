@@ -67,6 +67,12 @@ For Centos: <kbd>yum install glibc.i686 libstdc++.i686</kbd>
 
 * Nice you install Exiled!
 
+# 6. Run (x2) the server!
+
+* Run the server for test to Exiled work! (point 4)
+
+# Thank you for follow this tutorial!
+
 
 
 
